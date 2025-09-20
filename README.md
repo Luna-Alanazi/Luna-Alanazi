@@ -26,3 +26,26 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,git,postman,figma,py" />
+  <img src="https://skillicons.dev/icons?i=vscode,pytorch,docker,fastapi,sklearn,tensorflow" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Layan-Alanazi&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Layan-Alanazi's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Alanazi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Layan-Alanazi's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Layan-Alanazi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Layan-Alanazi's Most Used Languages" />
+</div>
+
+<hr>
