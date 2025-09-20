@@ -24,7 +24,8 @@ Here’s what I love working with:
 - Computer Vision → OpenCV, CNNs, Image Recognition
 - Natural Language Processing → Transformers, LLMs, Text Analysis
 
-I enjoy teaming up on projects 🤝, sharing ideas 💡, and contributing to AI innovations that truly make an impact 💕🚀
+I enjoy teaming up on projects 🤝, sharing ideas 💡, and contributing to AI innovations that truly make an impact 
+
 
 - 🌱 I’m currently learning [AI Student](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
 - 💬 Ask me about Java, python React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)
