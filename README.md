@@ -1,7 +1,7 @@
-<img width =100% src="
+<img width =100% src="https://github.com/Luna-Alanazi/Luna-Alanazi/blob/main/Grey%20White%20Minimalist%20Twitter%20Banner.pdf" />
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/Luna-Alanazi/count.svg" alt="Visitor's Count" />
 </div>
 
 
