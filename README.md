@@ -54,14 +54,15 @@ I enjoy teaming up on projects 🤝, sharing ideas 💡, and contributing to AI 
 
 <hr>
 
+
 ## ⚡️ Stats
 
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Layan-Alanazi&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Layan-Alanazi's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Alanazi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Layan-Alanazi's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Layan-Alanazi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Layan-Alanazi's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=layan&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="layan's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=layan&theme=transparent&count_private=true&border_radius=10&locale=en" alt="layan's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=layan&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="layan's Most Used Languages" />
 </div>
 
 <hr>
