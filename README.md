@@ -9,7 +9,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=E2DFD2&duration=4000&lines=Hello+There+✨;+I'm+Layan+Alanazi!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### 👋 Hey there, I’m Layan Adel Alanazi
+
+🎓 Senior AI Student |  Deep Learning • Machine Learning • Computer Vision • NLP
+
+About Me:
+
+Passionate about AI-driven solutions, seeking a Co-op opportunity to apply my skills✨
+
+Here’s what I love working with:
+
+- Deep Learning → TensorFlow & PyTorch
+- Machine Learning & Data Analysis → Scikit-learn, Pandas, NumPy
+- Computer Vision → OpenCV, CNNs, Image Recognition
+- Natural Language Processing → Transformers, LLMs, Text Analysis
+
+I enjoy teaming up on projects 🤝, sharing ideas 💡, and contributing to AI innovations that truly make an impact 💕🚀
 
 - 🌱 I’m currently learning [AI Student](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
 - 💬 Ask me about Java, python React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)
