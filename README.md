@@ -27,8 +27,8 @@ Here’s what I love working with:
 I enjoy teaming up on projects 🤝, sharing ideas 💡, and contributing to AI innovations that truly make an impact 
 
 
-- 🌱 I’m currently learning [AI Student](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
-- 💬 Ask me about Java, python React...or anything [here](https://github.com/Luna-Alanazi/Luna-Alanazi/issues)
+-  I’m currently learning [Artificial intelligence]
+-  Ask me about Java, python React...or anything [here](https://github.com/Luna-Alanazi/Luna-Alanazi/issues)
 
 <br>
 
